@@ -1,0 +1,15 @@
+match_label,team,player,expected_minutes,position,is_starter
+Target Match,SIDEMEN,Miniminter,80,FWD,1
+Target Match,SIDEMEN,TBJZL,78,MID,1
+Target Match,SIDEMEN,Behzinga,76,DEF,1
+Target Match,SIDEMEN,Vikkstar123,72,MID,1
+Target Match,SIDEMEN,Zerkaa,74,MID,1
+Target Match,SIDEMEN,KSI,60,GK,1
+Target Match,SIDEMEN,W2S,58,FWD,1
+Target Match,ALLSTARS,Manny,82,FWD,1
+Target Match,ALLSTARS,ChrisMD,82,FWD,1
+Target Match,ALLSTARS,Theo Baker,74,FWD,1
+Target Match,ALLSTARS,Chunkz,58,MID,1
+Target Match,ALLSTARS,Angryginge,74,DEF,1
+Target Match,ALLSTARS,IShowSpeed,62,FWD,1
+Target Match,ALLSTARS,JME,55,MID,1
